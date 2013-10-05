@@ -2,7 +2,7 @@
 pygments: true
 url: http://larsen.io
 lsi: false
-exclude: [LICENSE, CNAME, README.md, .gitignore]
+exclude: [LICENSE, CNAME, README.md, .gitignore, TODO.md]
 
 # Theme customization - please change from the defaults!
 theme:
