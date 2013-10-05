@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>The blog of Jason Larsen</title>
+ <link href="http://larsen.io/atom.xml" rel="self"/>
+ <link href="http://larsen.io"/>
+ <updated>2013-10-04T23:10:06-04:00</updated>
+ <id>http://larsen.io</id>
+ <author>
+   <name>Jason Larsen</name>
+   <email>jason@larsen.io</email>
+ </author>
+
+ 
+ <entry>
+   <title>The Jekyll has landed</title>
+   <link href="http://larsen.io/jekyll/meta/2013/10/04/welcome-to-jekyll.html"/>
+   <updated>2013-10-04T18:36:50-04:00</updated>
+   <id>http://larsen.io/jekyll/meta/2013/10/04/welcome-to-jekyll</id>
+   <content type="html">&lt;p&gt;So, I am going to try giving blogging a more serious go. I have done some work-blogging before at &lt;a href=&#39;https://devblog.timgroup.com/author/jlarsen/&#39;&gt;TIM Group&lt;/a&gt;, but this will be the first time that I have done so as a free agent.&lt;/p&gt;
+
+&lt;p&gt;This is my pre-requisite shout out to the awesome tools that are making this happen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;My blog tool of choice is &lt;a href=&#39;http://jekyllrb.com&#39;&gt;Jekyll&lt;/a&gt;. It is a nice simple, text-based way to create a blog. It&amp;#8217;s a tool that definitely gets out of your way.&lt;/li&gt;
+
+&lt;li&gt;In case it isn&amp;#8217;t otherwise obvious, I am hosting this through &lt;a href=&#39;https://github.com/jasonklarsen/jasonklarsen.github.io&#39;&gt;Github&lt;/a&gt;. Their jekyll-hosting facilities is about as simple to use as Jekyll itself.&lt;/li&gt;
+
+&lt;li&gt;This theme is derived from the &lt;a href=&#39;https://github.com/swanson/lagom&#39;&gt;Lagom theme&lt;/a&gt;. It&amp;#8217;s a great start, and I will likely continue to tweak it bit-by-bit as I get comfortable with things.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Altogether, I am excited to start putting some thoughts to keyboard, and logging my technical travels.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
