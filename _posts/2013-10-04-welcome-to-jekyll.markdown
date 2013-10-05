@@ -2,7 +2,7 @@
 layout: post
 title:  "The Jekyll has landed"
 date:   2013-10-04 22:36:50
-categories: jekyll meta
+categories: blog
 ---
 
 So, I am going to try giving blogging a more serious go. I have done some work-blogging before at [TIM Group][timgroup-blog], but this will be the first time that I have done so largely unaffiliated.
