@@ -1,0 +1,27 @@
+# General Jekyll Config
+pygments: true
+url: http://larsen.io
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore]
+
+# Theme customization - please change from the defaults!
+theme:
+  # Color for top bar, links, etc
+  highlight_color: '#006B24'
+
+  # Profile links on the left sidebar, leave blank to ignore
+  social:
+    github: jasonklarsen
+    twitter: jasonklarsen
+#    hacker_news: swanson
+
+  # "Hi, I'm _______"
+  name: Jason Larsen
+  email: jason@larsen.io
+  tagline: "<insert something witty here/>"
+
+  # Google Analytics key, leave blank to ignore
+  google_analytics_key: UA-44612770-1
+
+  # Toggle "Postings are my own" disclaimer in footer
+  show_disclaimer: true
