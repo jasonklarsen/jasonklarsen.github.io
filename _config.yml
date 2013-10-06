@@ -19,6 +19,7 @@ theme:
   name: Jason Larsen
   email: jason@larsen.io
   tagline: "<insert something witty here/>"
+  logoText: "A both abstract and nerdy logo -- a slightly artistic rendering of Charles Minard's chart depicting Napolean's 1812 campaign, made famous by Mr. Tufte"
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-44612770-1
