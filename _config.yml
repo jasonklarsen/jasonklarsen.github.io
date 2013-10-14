@@ -7,7 +7,7 @@ exclude: [LICENSE, CNAME, README.md, .gitignore, TODO.md]
 # Theme customization - please change from the defaults!
 theme:
   # Color for top bar, links, etc
-  highlight_color: '#014421'
+  highlight_color: '#1A5737'
 
   # Profile links on the left sidebar, leave blank to ignore
   social:
