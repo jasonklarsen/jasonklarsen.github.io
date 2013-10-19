@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resonance v0.0.1-pre2: In the beginning, there was an Idea to build an App"
+title:  "resonance-0.0.0-RC3: In the beginning was an Idea to Build an App"
 categories: projectlog
 ---
 
