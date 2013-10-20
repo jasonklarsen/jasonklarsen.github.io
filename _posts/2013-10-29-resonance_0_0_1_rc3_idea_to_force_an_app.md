@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "resonance-0.0.0-RC3: In the beginning was an Idea to Force Me to Build an App"
-categories: projectlog
+categories: projectlog resonance
 ---
 
 I am currently a reformed software engineer.

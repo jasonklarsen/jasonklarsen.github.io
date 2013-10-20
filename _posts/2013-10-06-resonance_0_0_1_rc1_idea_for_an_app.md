@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "resonance-0.0.0-RC1: In the beginning was an Idea for an App"
-categories: projectlog
+categories: projectlog resonance
 ---
 
 I am currently a reformed software engineer. 
