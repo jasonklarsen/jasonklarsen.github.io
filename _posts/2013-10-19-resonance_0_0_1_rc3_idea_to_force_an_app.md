@@ -22,7 +22,7 @@ In the end, my primary goal in founding this [blog][blog] and the [resonance pro
 
 Well, enough of the meta discussion, let's continue on and focus this project log on the first release!
 
-[blog]: http://larsen.io
+[blog]: {{site.url}}
 [resonance]: https://github.com/jasonklarsen/resonance
 [workblog]: https://devblog.timgroup.com/author/jlarsen/
 [techbook]: http://www.amazon.com/gp/product/0932633021/?tag=larsenio-20
