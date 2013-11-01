@@ -20,7 +20,7 @@ A fully "walking" skeleton is my first milestone, but I felt that it was time to
 
 My plan is to adopt the "micro-services" style for this system. I am interested in further exploring [service-oriented architectures][soa] and [micro-services][microservices] with this project. My past use of SOA has been enough to convince me that it is a lot easier to reason about smaller, independent services than a single monolithic app. (I hope to have more to say on micro-services as I explore more.)
 
-This architecture means multiple deployed artifacts. My current plan is to use Heroku to ultimately host these services, but that is fodder for another blog post. For now, getting a multiple artifact deployment to work locally means that I have had to solve at least one [interesting problem]({% post_url 2013-10-22-microservices_and_heroku_cors %}).
+This architecture means multiple deployed artifacts. My current plan is to use Heroku to ultimately host these services, but that is fodder for another blog post. For now, getting a multiple artifact deployment to work locally means that I have had to solve at least one [interesting problem]({% post_url 2013-10-23-microservices_and_heroku_cors %}).
 
 From a component perspective, I have separated my design into three separate components for this first skeleton:
 
