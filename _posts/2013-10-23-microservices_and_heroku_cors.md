@@ -4,7 +4,7 @@ title:  "Microservices and Heroku - CORS"
 categories: blog resonance
 ---
 
-In my [efforts to get a project skeleton]({% post_url 2013-10-22-resonance_0_0_1_a_skeleton %})
+In my [efforts to get a project skeleton]({% post_url 2013-10-23-resonance_0_0_1_a_skeleton %})
  in order for the [resonance][resonance] project, I stumbled into an interesting little problem with getting [micro-services][microservices] to work.
 
 I have an independently deployed web client that wants to make AJAX-based REST calls to an independent HTTP service. So, that is two separately deployed web services. Ultimately, I plan to deploy each of these services to [Heroku][heroku], and therefore have each service with a separate URL. But, I found that this problem presents itself even in local testing with separate servers on different ports.
