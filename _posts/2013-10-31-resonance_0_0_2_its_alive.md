@@ -12,9 +12,9 @@ Lightning struck down from the heavens... *(More like a Github push.)*
 
 Then, a skeleton started to rise... *(The resonance repo now has a [walking skeleton]({% post_url 2013-10-23-resonance_0_0_1_a_skeleton %}).)*
 
-Now with a single push to [Github][repo], the resonance code is checked out by [TravisCI][travis], tests are run against all parts of the [sbt multi-project][sbtmulti] (including [Javascript testing][sbtjstesting] via [jasmine][jasmine]), and if the tests pass, two different [microservices]({% post_url 2013-10-23-resonance_0_0_1_a_skeleton %}) get deployed to [Heroku][heroku].
+Now with a single push to [Github][repo], the resonance code is checked out by [Travis CI][travis], tests are run against all parts of the [sbt multi-project][sbtmulti] (including [Javascript testing][sbtjstesting] via [jasmine][jasmine]), and if the tests pass, two different [microservices]({% post_url 2013-10-23-resonance_0_0_1_a_skeleton %}) get deployed to [Heroku][heroku].
 
-There were some tricks (and treats) that I discovered along the way to creating a walking skeleton, and it would be remiss of me to not pass along what I have learned. As Mary Shelley in Frankenstein put it:
+There were some tricks (and [treats]({% post_url 2013-10-31-travis_ci_rocks %})) that I discovered along the way to creating a walking skeleton, and it would be remiss of me to not pass along what I have learned. As Mary Shelley in Frankenstein put it:
 
 >“...learn from my miseries, and do not seek to increase your own.” 
 
