@@ -4,7 +4,7 @@ title:  "On Using a SBT Plugins with Heroku"
 categories: blog resonance
 ---
 
-One quick pro-tip for those who are using a SBT plugin as a [project dependency][projdep] on [Heroku][heroku] and run into a problem like this:
+One quick pro-tip for those who are using a sbt plugin as a [project dependency][projdep] on [Heroku][heroku] and run into a problem like this:
 
 ```text
 Initialized empty Git repository in /tmp/build_fa31e5a8-c0d8-4f29-b45a-c1ea4dbf3e0f/.sbt_home/.sbt/0.13/staging/e8a2b2d1a8bd62bf8e10/sbt-jasmine-plugin/.git/
@@ -22,7 +22,7 @@ lazy val plugins = Project("plugins", file("."))
   .dependsOn(uri("git://github.com/guardian/sbt-jasmine-plugin.git#1.0"))
 ```
 
-Locally, SBT resolves the project fine, but using the git-based workflow of Heroku (which is pretty sweet in general), this doesn't seem to work. Rather than rock the boat and try something extra-clever (like hooking fancy [``before_deploy`` scripting][scripting] into my Travis CI build), I sought out a solution that better fit into the Heroku workflow.
+Locally, sbt resolves the project fine, but using the git-based workflow of Heroku (which is pretty sweet in general), this doesn't seem to work. Rather than rock the boat and try something extra-clever (like hooking fancy [``before_deploy`` scripting][scripting] into my Travis CI build), I sought out a solution that better fit into the Heroku workflow.
 
 I found [this tumblr post][post] that described a similar situation with a library dependency. (That post goes through a lot more detail than I do here, and do read it for a more step-by-step walkthrough of the problem.) 
 
