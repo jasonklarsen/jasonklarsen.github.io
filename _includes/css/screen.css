@@ -134,7 +134,8 @@ nav hr {
 #post code {
   border: 1px solid #ddd;
   background-color: #eef;
-  font-size: 85%;
+  line-height: 16px;
+  font-size: 75%;
   padding: 0 .2em;
 }
 
